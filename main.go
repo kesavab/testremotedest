@@ -5,6 +5,6 @@ import (
 )
 
 func main(){
-  appUrl:="http://raiderchopper-api/"
+  appUrl:="http://raiderchopper-api-istio/"
   fmt.Println("First line")
 }
