@@ -1,10 +1,11 @@
 package main
 
 import (
-"fmt"
+	"fmt"
 )
 
-func main(){
-  appUrl:="http://raiderchopper-api/"
-  fmt.Println("First line")
+func main() {
+	appUrl := "http://fodpicker-api/"
+	fmt.Println("First line")
+	fmt.Printf("%v line", appUrl)
 }
